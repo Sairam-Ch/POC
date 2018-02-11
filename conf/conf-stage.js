@@ -15,7 +15,7 @@ var conf = {
         auth : false,
         username : '',
         password : '',
-        url:'mongodb://10.0.2.26:27017/neo'
+        url:'mongodb://10.0.2.26:27017/neoHome'
     }
 };
 

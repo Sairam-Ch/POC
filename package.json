@@ -1,6 +1,6 @@
 {
-  "name": "neo",
-  "version": "1.0.0",
+  "name": "neoHome",
+  "version": "4.2.6",
   "description": "",
   "main": "server.js",
   "dependencies": {

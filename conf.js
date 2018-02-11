@@ -6,8 +6,8 @@ var conf = {};
 
 var ENV =
 
- // "development";
-"stage";
+ "development";
+// "stage";
 // "production";
 
 var envconf = require("./conf/conf-" + ENV + ".js");

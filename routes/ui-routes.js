@@ -1,3 +1,7 @@
+/**
+ * Created by Sairam on 11/02/18.
+ */
+
 var _ = require('underscore');
 
 
@@ -17,11 +21,5 @@ module.exports = UIRoutes;
 UIRoutes.prototype.init = function() {
     var self = this;
     var app = this.app;
-
-    var actionInstance = this.UIActionInstance;
-    var dataInstance = this.actionInstance;
-
-
-
 
 };
